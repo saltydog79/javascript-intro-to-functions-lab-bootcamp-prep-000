@@ -9,9 +9,8 @@ return hello.toLowerCase()
 var hello = 'hello'
 function logShout(string) {
   console.log(hello)
-  return `${hello.toUpperCase()}`
+  return (hello).toUpperCase()}
 }
-
 
 var hello = 'hello'
 function logWhisper(string) {
