@@ -8,7 +8,7 @@ return hello.toLowerCase()
 
 var hello = 'hello'.toUpperCase()
 function logShout(string) {
-  console.log(hello.toUpperCase)
+  console.log(hello)
   return `${hello}`
 }
 
