@@ -14,8 +14,8 @@ function logShout(string) {
 
 logShout('hello')
 
-var hello = 'hello'
+var string = 'hello'
 function logWhisper(string) {
-  console.log(hello)
+  console.log(string)
   return `${hello}`
 }
